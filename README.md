@@ -1,7 +1,7 @@
 ![NVIDIA LOGO](https://github.com/user-attachments/assets/9cf87f01-ff75-4c6a-b4c8-2560ca2e4db7)
 
 # Nvidia AI Specialist Certification
-### <span style="color:violet">Title : Vehicle license plate recognition system using YOLOv5</span>
+### <span style="color:violet">Title : Signboard-based driving control using AI object recognition</span>
 ---
 ## ✅ OverView of the Project
     - Opening background information
