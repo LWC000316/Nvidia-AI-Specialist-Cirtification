@@ -28,9 +28,11 @@ It is a very important part of the automobile industry.
 ---
 ## General description of the current project
 ```
-This project is to develop a vehicle license plate recognition system using YOLOv5.
-It recognizes the vehicle's license plate as a partner, acknowledges it, and performs various functions
-such as tracking stolen vehicles and automatic parking management.
+This project aims to implement a Traffic Sign Recognition (TSR) system by utilizing YOLOv5, a deep learning technology.
+We build a system that detects road signs in real time using YOLOv5 and provides warnings to drivers based on
+this information to ensure they follow traffic regulations and avoid accidents. 
+It responds to the recent development of deep learning technology and the increasing importance of ADAS systems,
+and contributes to enhancing the safety and convenience of drivers.
 ```
 ---
 ## Proposed idea for enhancements to the project
