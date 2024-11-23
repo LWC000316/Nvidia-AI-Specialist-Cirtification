@@ -36,17 +36,18 @@ and contributes to enhancing the safety and convenience of drivers.
 ---
 ## Proposed idea for enhancements to the project
 ```
-YOLOv5 processes the entire image at once to achieve accurate object detection while maintaining
-high frame rates. This allows license plate recognition in real time even in environments where
-vehicles are moving quickly.
-```
----
-## Value and significance of this project
-```
 High accuracy and real-time processing: YOLOv5 offers high accuracy and low processing latency,
 enabling fast real-time road sign detection and recognition.
 Flexibility and scalability: YOLOv5 has great flexibility to identify and track road signs
 in various driving environments, making it easy to apply additional features and improvements.
+```
+---
+## Value and significance of this project
+```
+The traffic sign recognition system helps drivers follow traffic regulations and provides critical road information
+such as intersections, traffic lights, and roadworks.
+The improved system through this project ensures driver safety and accelerates the development of autonomous driving technology.
+By implementing TSR as part of ADAS, it enhances the driver experience and helps prevent traffic accidents.
 ```
 ---
 ## Current limitations
