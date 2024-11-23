@@ -18,10 +18,9 @@
 ---
 ## Opening background information
 ```
-✅ Recent developments in autonomous driving technology have attracted more attention with
-artificial intelligence-based recognition systems combining LiDAR and cameras, and these technologies
-are playing an important role in a range of applications such as size plate recognition for vehicles
-(automatic license plate recognition, ALPR).
+✅ The identification and interpretation of paint signs are important for drivers and pedestrians to use the road safely and efficiently. However, since there are numerous signs on the road, mistakes or risks can occur if they rely on human judgment. To solve this problem, we intend to develop a system that detects and classifies road signs using AI object recognition.
+
+With the recent development of object recognition technology and deep learning algorithms, many things have become possible such as autonomous driving, driver assistance systems, traffic management systems, smart navigation systems, and traffic law violation detection systems. This project focuses on realizing a system that accurately recognizes and classifies the shape and type of road signs, which are necessary for them, using YOLOv5.
 ```
 ---
 ## General description of the current project
