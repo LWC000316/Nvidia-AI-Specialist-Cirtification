@@ -18,10 +18,12 @@
 ---
 ## Opening background information
 ```
-Modern society is developing in such a way that efficiency and safety are emphasized, as traffic environments are becoming more complex and features such as autonomous driving come out.
-These changes have further highlighted the importance of road signs.
-Road signs provide important information for both drivers and pedestrians, and play an essential role in complying with traffic rules and preventing accidents.
-However, traditional traffic management methods often suffer from sign recognition problems or limitations in passing information.
+With the recent development of autonomous driving technology, the importance of ADAS (Advanced Driver Assistance Systems),
+which is a driver assistance system, is increasing.
+In particular, TSR (Traffic Sign Recognition) is a technology that helps drivers recognize road signs while driving,
+ensuring they follow traffic regulations and are aware of important road conditions.
+It is a very important part of the automobile industry.
+
 ```
 ---
 ## General description of the current project
