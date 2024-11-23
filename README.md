@@ -66,7 +66,7 @@ A literature review is being conducted on the performance and applicability of Y
 ## <span style="color:blue"> Image Acquisition Method </span>
 - I filmed it with a camera while driving on the highway.
 
-[DRIVE TEST]([https://github.com/user-attachments/assets/9bfaefa1-c508-4fa7-a04f-94441b3b1514](https://drive.google.com/drive/folders/1kXQD0gHu7XKAxDD1jPbUyIoKcj3Dzffy?dmr=1&ec=wgc-drive-hero-goto))
+[DRIVE TEST]((https://github.com/user-attachments/assets/9bfaefa1-c508-4fa7-a04f-94441b3b1514))
 
 
 ## <span style="color:blue">Learning Data Extraction and Learning Annotation </span>
