@@ -18,12 +18,10 @@
 ---
 ## Opening background information
 ```
-✅ The identification and interpretation of paint signs are important for drivers and pedestrians to use the road safely and efficiently.
-However, since there are numerous signs on the road, mistakes or risks can occur if they rely on human judgment.
-To solve this problem, we intend to develop a system that detects and classifies road signs using AI object recognition.
-With the recent development of object recognition technology and deep learning algorithms, many things have become possible such as
-autonomous driving, driver assistance systems, traffic management systems, smart navigation systems, and traffic law violation detection systems.
-This project focuses on realizing a system that accurately recognizes and classifies the shape and type of road signs, which are necessary for them, using YOLOv5.
+✅ Modern society is developing in a direction where the traffic environment is becoming more complex and emphasizing efficiency and safety.
+These changes have further highlighted the importance of road signs.
+Road signs provide important information for both drivers and pedestrians, and play an essential role in complying with traffic rulesand preventing
+accidents. However, conventional traffic management methods often suffer from sign recognition problems or limitations in passing information.
 ```
 ---
 ## General description of the current project
