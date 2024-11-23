@@ -43,24 +43,23 @@ vehicles are moving quickly.
 ---
 ## Value and significance of this project
 ```
-This project can be used in various fields such as traffic management, law enforcement,
-and parking management through vehicle license plate recognition, and is an essential element
-for autonomous vehicles to comply with traffic rules in real time and identify violative vehicles.
+High accuracy and real-time processing: YOLOv5 offers high accuracy and low processing latency,
+enabling fast real-time road sign detection and recognition.
+Flexibility and scalability: YOLOv5 has great flexibility to identify and track road signs
+in various driving environments, making it easy to apply additional features and improvements.
 ```
 ---
 ## Current limitations
 ```
-Limitations faced include poor recognition performance in various environmental conditions.
-For example, when driving in bad weather or at night, it is difficult to accurately recognize license plates
-using cameras alone, and vehicles moving at high speeds or partially obscured license plates
-are highly likely to cause errors in existing systems.
+Current limitations include challenges in accurately recognizing road signs in diverse environments,
+with performance potentially degraded by weather or lighting conditions.
+Additionally, real-time processing and system optimization still need improvement.
 ```
 ---
 ## Literature review
 ```
-ecause there are limitations such as dependency issues on large-scale datasets and poor performance
-in various environments, improvements are needed by securing more datasets and using additional sensor
-fusion technologies such as LiDAR.
+In using YOLOv5 for this project, related papers are being investigated to consider the latest research and technology trends.
+A literature review is being conducted on the performance and applicability of YOLOv5 for traffic sign recognition.
 ```
 ---
 ## <span style="color:blue"> Image Acquisition Method </span>
