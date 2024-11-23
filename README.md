@@ -64,9 +64,7 @@ A literature review is being conducted on the performance and applicability of Y
 ```
 ---
 ## <span style="color:blue"> Image Acquisition Method </span>
-- The parking lot black box video was filmed, and additional video
-  was referenced from the Seoul road test driving video.
-  
+- I filmed it with a camera while driving on the highway.
 
 [DRIVE TEST](https://github.com/user-attachments/assets/9bfaefa1-c508-4fa7-a04f-94441b3b1514)
 
