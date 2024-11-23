@@ -23,8 +23,7 @@ are becoming more complex and featuressuch as autonomous driving come out.
 These changes have further highlighted the importance of road signs.
 Road signs provide important information for both drivers and pedestrians, and play an essential role
 in complying with traffic rules and preventing accidents.
-However, traditional traffic management methods often suffer from sign recognition problems
-or limitations in passing information.
+However, traditional traffic management methods often suffer from sign recognition problemsor limitations in passing information.
 ```
 ---
 ## General description of the current project
