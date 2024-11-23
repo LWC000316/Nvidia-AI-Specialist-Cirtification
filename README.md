@@ -17,37 +17,40 @@
     - Literature review
 ---
 ## Opening background information
-
-Modern society is developing in a direction where the traffic environment is becoming more complex and emphasizing efficiency and safety.
+```
+Modern society is developing in such a way that efficiency and safety are emphasized, as traffic environments
+are becoming more complex and featuressuch as autonomous driving come out.
 These changes have further highlighted the importance of road signs.
-Road signs provide important information for both drivers and pedestrians, and play an essential role in complying with traffic rulesand preventingaccidents.
-However, conventional traffic management methods often suffer from sign recognition problems or limitations in passing information.
-
+Road signs provide important information for both drivers and pedestrians, and play an essential role
+in complying with traffic rules and preventing accidents.
+However, traditional traffic management methods often suffer from sign recognition problems
+or limitations in passing information.
+```
 ---
 ## General description of the current project
 ```
-✅ This project is to develop a vehicle license plate recognition system using YOLOv5.
+This project is to develop a vehicle license plate recognition system using YOLOv5.
 It recognizes the vehicle's license plate as a partner, acknowledges it, and performs various functions
 such as tracking stolen vehicles and automatic parking management.
 ```
 ---
 ## Proposed idea for enhancements to the project
 ```
-✅ YOLOv5 processes the entire image at once to achieve accurate object detection while maintaining
+YOLOv5 processes the entire image at once to achieve accurate object detection while maintaining
 high frame rates. This allows license plate recognition in real time even in environments where
 vehicles are moving quickly.
 ```
 ---
 ## Value and significance of this project
 ```
-✅ This project can be used in various fields such as traffic management, law enforcement,
+This project can be used in various fields such as traffic management, law enforcement,
 and parking management through vehicle license plate recognition, and is an essential element
 for autonomous vehicles to comply with traffic rules in real time and identify violative vehicles.
 ```
 ---
 ## Current limitations
 ```
-✅ Limitations faced include poor recognition performance in various environmental conditions.
+Limitations faced include poor recognition performance in various environmental conditions.
 For example, when driving in bad weather or at night, it is difficult to accurately recognize license plates
 using cameras alone, and vehicles moving at high speeds or partially obscured license plates
 are highly likely to cause errors in existing systems.
@@ -55,7 +58,7 @@ are highly likely to cause errors in existing systems.
 ---
 ## Literature review
 ```
-✅ Because there are limitations such as dependency issues on large-scale datasets and poor performance
+ecause there are limitations such as dependency issues on large-scale datasets and poor performance
 in various environments, improvements are needed by securing more datasets and using additional sensor
 fusion technologies such as LiDAR.
 ```
