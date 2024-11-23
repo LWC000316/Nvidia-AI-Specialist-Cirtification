@@ -17,12 +17,12 @@
     - Literature review
 ---
 ## Opening background information
-```
-✅ Modern society is developing in a direction where the traffic environment is becoming more complex and emphasizing efficiency and safety.
+
+Modern society is developing in a direction where the traffic environment is becoming more complex and emphasizing efficiency and safety.
 These changes have further highlighted the importance of road signs.
-Road signs provide important information for both drivers and pedestrians, and play an essential role in complying with traffic rulesand preventing
-accidents. However, conventional traffic management methods often suffer from sign recognition problems or limitations in passing information.
-```
+Road signs provide important information for both drivers and pedestrians, and play an essential role in complying with traffic rulesand preventingaccidents.
+However, conventional traffic management methods often suffer from sign recognition problems or limitations in passing information.
+
 ---
 ## General description of the current project
 ```
