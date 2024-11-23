@@ -23,7 +23,6 @@ which is a driver assistance system, is increasing.
 In particular, TSR (Traffic Sign Recognition) is a technology that helps drivers recognize road signs while driving,
 ensuring they follow traffic regulations and are aware of important road conditions.
 It is a very important part of the automobile industry.
-
 ```
 ---
 ## General description of the current project
