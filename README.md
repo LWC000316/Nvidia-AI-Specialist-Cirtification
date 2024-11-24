@@ -112,7 +112,7 @@ A literature review is being conducted on the performance and applicability of Y
   and a vehicle license plate has been added below.
   
 
-![다크라벨2](https://github.com/user-attachments/assets/0b4470ea-2bd6-4a4b-804c-0cddd5829177)
+![다크라벨2](https://github.com/user-attachments/assets/de621b99-0b97-4a89-aa57-160afbaea1bd)
 
 - In the DarkLabel program, you can convert video into images frame by frame.
 
