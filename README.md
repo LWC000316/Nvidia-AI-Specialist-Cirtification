@@ -93,11 +93,11 @@ A literature review is being conducted on the performance and applicability of Y
 - First, add classes through darklabel.yml before annotation.
 
 
-![데이터얌](https://github.com/user-attachments/assets/86f82bae-1b77-467b-a579-f54e62e3d228)
+![다크라벨얌1](https://github.com/user-attachments/assets/3d8d6b52-dd4a-455e-9463-3f1f29f527de)
 
 - Add vehicle classes in the yaml file and add vehicle license plate as the class name.
-  
 
+  
 ![다크라벨얌2](https://github.com/user-attachments/assets/b9811883-fc21-4f47-9985-ba8dca6c6fc6)
 
 - When annotating, put the vehicle classes in classes_set so that you can see the classes set
@@ -190,7 +190,8 @@ def Create_npy(imagespath, imgsize, ext) :
 
 - Edit the `data.yaml` file to match the classes.
 
-![code](https://github.com/user-attachments/assets/9bd9a091-8062-472c-b0e5-5adf6d420aab)
+![데이터얌](https://github.com/user-attachments/assets/37464099-5da2-4959-a921-9887f8ae1799)
+
 
 - Learning is conducted based on `data.yaml`.
 
@@ -225,33 +226,33 @@ yolov5n.pt represents a pre-trained YOLOv5 nano model, which can be used as a st
 
 - PR_Curve / F1_Curve
 
-<img src="https://github.com/user-attachments/assets/9cb71cfd-7045-4850-81b1-5e4251046d5b" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/157c0bc7-a822-468c-97c5-de6f4bc143e8" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/18da92cc-ae8a-4dfe-b049-a858a8ea77f2" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/cde44001-7ed3-4705-9265-81b7c4f4fa6c" width="50%" height="50%">
 
 - P_Curve / R_Curve
 
-<img src="https://github.com/user-attachments/assets/684c724f-9c31-4f66-9ff8-9c8480c0e879" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/2c0516dd-aaaa-4fa6-a09e-f9d152d9613f" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/80de5d47-00e1-4ba8-9360-1a5e01c5b4d5" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/50dc7fb6-7295-4080-9098-9994b6283792" width="50%" height="50%">
 
 - confusion_matrix
 
-<img src="https://github.com/user-attachments/assets/93f2e9eb-11d2-48b0-93e3-0fbfb20951cf" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/f4391b18-94f3-4242-a303-ce6673e526d3" width="50%" height="50%">
 
 - labels / labels_correlogram
 
-<img src="https://github.com/user-attachments/assets/206fca60-0bd9-4437-a5c6-c3e8054ef091" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/808d3efa-fbda-4fc6-804c-b564912e8d31" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/4eb5e2a3-2930-4399-ad86-e09ef22d33aa" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/80cd0314-f7cc-4482-b373-abbca8709a2e" width="50%" height="50%">
 
 
 - results
 
-![results](https://github.com/user-attachments/assets/2bc6a3e6-21d1-477b-af9a-68a561590eb0)
+![result](https://github.com/user-attachments/assets/7ccb32e7-3c38-4110-8d64-23400ccd28c8)
 
 
 - val_batch1_pred / val_batch2_pred
 
-<img src="https://github.com/user-attachments/assets/8b1b8408-3227-4902-90ab-ab212bfb9274" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/27cf293f-9ebf-40c8-ace4-3812761e4559" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/a1919dad-ab5d-48a6-a4a9-39dde76a5c12" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/4b30e42f-17a9-4ae6-a308-b62c7336a21f" width="50%" height="50%">
 
 - learning file
 
-    - [exp.zip](https://github.com/user-attachments/files/17817104/exp.zip)
+    - [Learning Results Videos 1](https://drive.google.com/drive/folders/1mz9lRwu_nwsyweWgbLiDaz_5yb4ooJBt?dmr=1&ec=wgc-drive-hero-goto)
 
 ---
 
