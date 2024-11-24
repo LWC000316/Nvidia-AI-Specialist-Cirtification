@@ -91,28 +91,28 @@ A literature review is being conducted on the performance and applicability of Y
 ![darklabel 5](https://github.com/user-attachments/assets/1769e2b0-84ba-4854-beaa-2e4dd4cecf4c)
 
 - First, add classes through darklabel.yml before annotation.
-  
 
-![code](https://github.com/user-attachments/assets/02742552-ec7a-46ca-a247-6e4b59594136)
+
+![데이터얌](https://github.com/user-attachments/assets/86f82bae-1b77-467b-a579-f54e62e3d228)
 
 - Add vehicle classes in the yaml file and add vehicle license plate as the class name.
   
 
-![code 1](https://github.com/user-attachments/assets/6bbd6ffb-0b4b-434d-8fa1-1358e8020bb3)
+![다크라벨얌2](https://github.com/user-attachments/assets/b9811883-fc21-4f47-9985-ba8dca6c6fc6)
 
 - When annotating, put the vehicle classes in classes_set so that you can see the classes set
 
   in the DarkLabel GUI, and set the name to be viewed in the GUI to vehicle license plate.
   
 
-![darklabel 2]((https://github.com/user-attachments/assets/70e5e7a4-8d07-484c-bf78-bb652f0b381e))
+![다크라벨1](https://github.com/user-attachments/assets/cec14a11-6d59-4669-8883-472a8fe4925c)
 
 - You can see that classes called vehicle classes have been added to the DarkLabel program,
 
   and a vehicle license plate has been added below.
   
 
-![darklabel 4](https://github.com/user-attachments/assets/c467f5de-d811-47d4-902a-5e37352298ac)
+![다크라벨2](https://github.com/user-attachments/assets/0b4470ea-2bd6-4a4b-804c-0cddd5829177)
 
 - In the DarkLabel program, you can convert video into images frame by frame.
 
@@ -120,7 +120,7 @@ A literature review is being conducted on the performance and applicability of Y
 
   it is converted to an image through as images, and the labeled value is saved through GT save.
 
-<img src="https://github.com/user-attachments/assets/04b3735c-1215-4ccb-abef-f59a1bb37117" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/ac618c57-f31d-4164-99e1-741cfd537b6a" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/0d4dac2b-8cab-4b5b-abca-67cc409a8c14" width="50%" height="50%"><img src="https://github.com/user-attachments/assets/da7d2462-f52f-4a7c-88d6-53f2cf6cfaa3" width="50%" height="50%">
     
 - You can see that labeled text documents and image files are in the labels folder and the images folder, respectively.
 
