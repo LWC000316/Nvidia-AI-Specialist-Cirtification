@@ -105,7 +105,7 @@ A literature review is being conducted on the performance and applicability of Y
   in the DarkLabel GUI, and set the name to be viewed in the GUI to vehicle license plate.
   
 
-![darklabel 2](https://github.com/user-attachments/assets/fb3cb492-bf57-4077-b8c3-864958c4b68e)
+![darklabel 2]((https://github.com/user-attachments/assets/70e5e7a4-8d07-484c-bf78-bb652f0b381e))
 
 - You can see that classes called vehicle classes have been added to the DarkLabel program,
 
