@@ -81,7 +81,7 @@ A literature review is being conducted on the performance and applicability of Y
 
 <https://online-video-cutter.com/ko/resize-video>
 
-![비디오 리사이저](https://github.com/user-attachments/assets/ad1b5ca9-80a2-4b98-8716-a5ba8fd9276b)
+![비디오 리사이저](https://github.com/user-attachments/assets/70e5e7a4-8d07-484c-bf78-bb652f0b381e)
 
 - I used Darklabel to create edits with images based on frames, due to 640 x 640.
   
