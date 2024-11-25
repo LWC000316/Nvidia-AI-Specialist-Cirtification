@@ -65,6 +65,7 @@ A literature review is being conducted on the performance and applicability of Y
 ---
 ## <span style="color:blue"> Image Acquisition Method </span>
 - I filmed it with a camera while driving on the highway.
+- The video below is part of the learning video, and you can see the entire video by pressing Full video.
 
 [DRIVE TEST](https://github.com/user-attachments/assets/7b6a1ff1-6c04-4dd7-b26a-bd7dc63bf89e)
 
