@@ -248,8 +248,7 @@ yolov5n.pt represents a pre-trained YOLOv5 nano model, which can be used as a st
 
 - results
 
-![result](https://drive.google.com/drive/folders/1mz9lRwu_nwsyweWgbLiDaz_5yb4ooJBt?usp=drive_link)
-
+![result](https://github.com/user-attachments/assets/66ee029e-6b99-41cb-a815-d82a5921ad92)
 
 - val_batch1_pred / val_batch2_pred
 
@@ -257,7 +256,7 @@ yolov5n.pt represents a pre-trained YOLOv5 nano model, which can be used as a st
 
 - learning file
 
-    - [Result](https://drive.google.com/drive/folders/1mz9lRwu_nwsyweWgbLiDaz_5yb4ooJBt?dmr=1&ec=wgc-drive-hero-goto)
+    - [Result](https://drive.google.com/drive/folders/1mz9lRwu_nwsyweWgbLiDaz_5yb4ooJBt?usp=drive_link)
 
 ---
 
