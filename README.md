@@ -333,7 +333,7 @@ You can change this path to any directory containing images you want to analyze.
 - Jetson Nano Results Videos
     - <https://youtu.be/C-sSawc2YxE>
 
-- My Google Drive
+- Project File
     - <https://drive.google.com/drive/folders/1kXQD0gHu7XKAxDD1jPbUyIoKcj3Dzffy?usp=drive_link>
 
 ---
