@@ -106,9 +106,9 @@ A literature review is being conducted on the performance and applicability of Y
 
 ![다크라벨1](https://github.com/user-attachments/assets/cec14a11-6d59-4669-8883-472a8fe4925c)
 
-- You can see that classes called vehicle classes have been added to the DarkLabel program,
+- You can see that classes called sign classes have been added to the DarkLabel program,
 
-  and a vehicle license plate has been added below.
+  and a sign has been added below.
 
   
 ![다크라벨2](https://github.com/user-attachments/assets/fd294b2c-770e-481c-87a4-0191cdfe628e)
