@@ -248,7 +248,7 @@ yolov5n.pt represents a pre-trained YOLOv5 nano model, which can be used as a st
 
 - results
 
-![result](https://github.com/user-attachments/assets/7ccb32e7-3c38-4110-8d64-23400ccd28c8)
+![result](https://drive.google.com/drive/folders/1mz9lRwu_nwsyweWgbLiDaz_5yb4ooJBt?usp=drive_link)
 
 
 - val_batch1_pred / val_batch2_pred
