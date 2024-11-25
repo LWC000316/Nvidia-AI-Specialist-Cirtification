@@ -112,7 +112,7 @@ A literature review is being conducted on the performance and applicability of Y
 
 - Only do this if there is only one object to detect.
 
-  Create with different class names if there are multiple objects
+  Create with various class names if there are multiple objects
 
   
 ![다크라벨2](https://github.com/user-attachments/assets/fd294b2c-770e-481c-87a4-0191cdfe628e)
