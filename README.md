@@ -213,7 +213,7 @@ Batch size can impact training speed and memory usage.
 
 --`epochs 300` : This sets the number of training epochs to 300. An epoch represents one complete pass through the entire training dataset.
 
---`data /content/drive/MyDrive/yolov5/yolov5_2/data.yaml` : This argument points to the data.yaml file, which contains the configuration for your dataset, 
+--`data /content/drive/MyDrive/yolov5/yolov5/data.yaml` : This argument points to the data.yaml file, which contains the configuration for your dataset, 
 
 including the paths to your training and validation images and labels.
 
