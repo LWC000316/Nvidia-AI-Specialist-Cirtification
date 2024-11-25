@@ -67,7 +67,8 @@ A literature review is being conducted on the performance and applicability of Y
 - I filmed it with a camera while driving on the highway.
 
 [DRIVE TEST](https://github.com/user-attachments/assets/7b6a1ff1-6c04-4dd7-b26a-bd7dc63bf89e)
-    - [Full Video](https://drive.google.com/drive/folders/1mz9lRwu_nwsyweWgbLiDaz_5yb4ooJBt?dmr=1&ec=wgc-drive-hero-goto)
+
+[Full Video](https://youtu.be/28CcGXX3-3A)
 
 ## <span style="color:blue">Learning Data Extraction and Learning Annotation </span>
 
