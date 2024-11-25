@@ -255,7 +255,7 @@ yolov5n.pt represents a pre-trained YOLOv5 nano model, which can be used as a st
 
 - learning file
 
-    - [Learning Results Videos 1](https://drive.google.com/drive/folders/1mz9lRwu_nwsyweWgbLiDaz_5yb4ooJBt?dmr=1&ec=wgc-drive-hero-goto)
+    - [Result](https://drive.google.com/drive/folders/1mz9lRwu_nwsyweWgbLiDaz_5yb4ooJBt?dmr=1&ec=wgc-drive-hero-goto)
 
 ---
 
