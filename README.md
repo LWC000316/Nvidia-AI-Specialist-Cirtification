@@ -199,7 +199,7 @@ def Create_npy(imagespath, imgsize, ext) :
 - Learning is conducted based on `data.yaml`.
 
 ```ipynb
-!python train.py  --img 512 --batch 16 --epochs 300 --data /content/drive/MyDrive/yolov5_2/yolov5/data.yaml --weights yolov5n.pt --cache
+!python train.py  --img 512 --batch 16 --epochs 300 --data /content/drive/MyDrive/yolov5/yolov5/data.yaml --weights yolov5n.pt --cache
 ```
 
 
@@ -264,7 +264,7 @@ yolov5n.pt represents a pre-trained YOLOv5 nano model, which can be used as a st
 - After completing training, run `detect.py` based on the image used for training.
 
 ```ipynb
-!python detect.py --weights /content/drive/MyDrive/yolov5_2/yolov5/runs/train/exp5/weights/best.pt --img 512 --conf 0.1 --source /content/drive/MyDrive/yolov5_2/yolov5/Train/images
+!python detect.py --weights /content/drive/MyDrive/yolov5/yolov5/runs/train/exp/weights/best.pt --img 512 --conf 0.1 --source /content/drive/MyDrive/yolov5/yolov5/Train/images
 ```
 
 
@@ -273,7 +273,7 @@ yolov5n.pt represents a pre-trained YOLOv5 nano model, which can be used as a st
 
 which is responsible for running inference using a YOLOv5 model.
 
---`weights /content/drive/MyDrive/yolov5/yolov5/runs/train/exp5/weights/best.pt` : This argument specifies the path 
+--`weights /content/drive/MyDrive/yolov5/yolov5/runs/train/exp/weights/best.pt` : This argument specifies the path 
 
 to the trained model weights file (best.pt).
 
