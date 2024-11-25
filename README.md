@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/39d08599-3fc7-494b-846f-461dc3246b7f
 ![NVIDIA LOGO](https://github.com/user-attachments/assets/9cf87f01-ff75-4c6a-b4c8-2560ca2e4db7)
 
 # Nvidia AI Specialist Certification
@@ -323,14 +325,14 @@ You can change this path to any directory containing images you want to analyze.
 <https://github.com/user-attachments/assets/c13e3c1f-cea9-4594-849c-3d9fb3b3830f>
 
 
-<https://github.com/user-attachments/assets/8f969447-1e03-4496-a6ff-96b4c164e2b8>
+<https://github.com/user-attachments/assets/20958aea-63ad-4a69-96df-e4b24a588d93>
 
 
-<https://github.com/user-attachments/assets/d90f3288-cf9b-4b99-9342-a58358caa81d>
+<https://github.com/user-attachments/assets/f5956c99-8722-43a7-a919-74f1e6f31d57>
 
-- Learning Results Videos
-    - <https://drive.google.com/drive/folders/1ceDayoJZwuJBw2DGd_66w1x5YHSbzNAg?usp=sharing>
-    - <https://drive.google.com/drive/folders/1cpIWT83J9RTWp3P_iqjMXLlou1uAx3C0?usp=sharing>
+- Full Video
+    - <https://youtu.be/D4pHk0_oL5w>
+    - <https://youtu.be/C-sSawc2YxE>
  
 
 ---
