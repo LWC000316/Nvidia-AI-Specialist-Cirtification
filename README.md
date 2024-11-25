@@ -329,13 +329,10 @@ ___
 ## Conclusion
 
 ```
-✅ The values ​​learned using the vehicle license plate maintained a value of 0.8 to 0.9, showing high accuracy.
+✅ 
+The project utilized the YOLOv5 model to develop an AI system capable of accurately detecting road signs. This model demonstrated high accuracy and rapid real-time processing capabilities, highlighting its potential for improving road safety and traffic flow management. The test data showed an average accuracy exceeding 90%, validating the model's excellent performance, even under cloudy conditions.
 
-However, as it recognizes similar white bricks and lights, various license plates and a lot of data are needed.
+However, limitations were observed during heavy rain or severe weather conditions, where the performance could degrade. Additionally, the lack of classification between different types of signs posed challenges in precise identification. Future efforts will focus on further refining object categorization to address this issue.
 
-However, the vehicle license plate image used for learning maintained a value of 0.8 to 0.9, showing high accuracy,
-
-so training the model with more diverse license plate photos and angle data and applying
-
-appropriate data processing resulted in improved values. You will get it.
+Finally, the system proved capable of maintaining real-time processing even under high-frame-rate scenarios, such as during highway driving.
 ```
