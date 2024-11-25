@@ -332,8 +332,9 @@ You can change this path to any directory containing images you want to analyze.
 
 - Full Video
     - <https://youtu.be/D4pHk0_oL5w>
+    
+- Jetson Nano Results Videos
     - <https://youtu.be/C-sSawc2YxE>
- 
 
 ---
 
