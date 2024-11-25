@@ -95,7 +95,7 @@ A literature review is being conducted on the performance and applicability of Y
 
 ![다크라벨얌1](https://github.com/user-attachments/assets/3d8d6b52-dd4a-455e-9463-3f1f29f527de)
 
--Add a class set called my_classes2 to the yaml file and add a class called sign to it.
+- Add a class set called my_classes2 with sign class to the yaml file and add a class called sign to it.
 
   
 ![다크라벨얌2](https://github.com/user-attachments/assets/b9811883-fc21-4f47-9985-ba8dca6c6fc6)
