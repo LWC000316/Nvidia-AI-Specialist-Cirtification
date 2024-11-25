@@ -328,11 +328,9 @@ ___
 
 ## Conclusion
 
-```
-✅ 
 The project utilized the YOLOv5 model to develop an AI system capable of accurately detecting road signs. This model demonstrated high accuracy and rapid real-time processing capabilities, highlighting its potential for improving road safety and traffic flow management. The test data showed an average accuracy exceeding 90%, validating the model's excellent performance, even under cloudy conditions.
 
 However, limitations were observed during heavy rain or severe weather conditions, where the performance could degrade. Additionally, the lack of classification between different types of signs posed challenges in precise identification. Future efforts will focus on further refining object categorization to address this issue.
 
 Finally, the system proved capable of maintaining real-time processing even under high-frame-rate scenarios, such as during highway driving.
-```
+
