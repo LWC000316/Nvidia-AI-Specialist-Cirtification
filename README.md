@@ -303,7 +303,7 @@ In this case, it's pointing to the Train/images directory, which likely contains
 You can change this path to any directory containing images you want to analyze.
  
 
-
+___
 ## Video produced through detect results
 
 <https://github.com/user-attachments/assets/c13e3c1f-cea9-4594-849c-3d9fb3b3830f>
