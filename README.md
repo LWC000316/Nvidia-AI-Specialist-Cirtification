@@ -95,15 +95,13 @@ A literature review is being conducted on the performance and applicability of Y
 
 ![다크라벨얌1](https://github.com/user-attachments/assets/3d8d6b52-dd4a-455e-9463-3f1f29f527de)
 
-- Add my_classes2 with the sign class to the classes_set in format1
-- Change the name to sign.
+-Add a class set called my_classes2 to the yaml file and add a class called sign to it.
 
   
 ![다크라벨얌2](https://github.com/user-attachments/assets/b9811883-fc21-4f47-9985-ba8dca6c6fc6)
+- When annotating, put the my_classes2 in classes_set so that you can see the classes set
 
-- When annotating, put the vehicle classes in classes_set so that you can see the classes set
-
-  in the DarkLabel GUI, and set the name to be viewed in the GUI to vehicle license plate.
+  in the DarkLabel GUI, and set the name to be viewed in the GUI to sign.
   
 
 ![다크라벨1](https://github.com/user-attachments/assets/cec14a11-6d59-4669-8883-472a8fe4925c)
