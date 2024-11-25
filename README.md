@@ -314,14 +314,12 @@ ___
 
 <https://github.com/user-attachments/assets/f5956c99-8722-43a7-a919-74f1e6f31d57>
 
-- Full Video  
-    - [Full Video](https://youtu.be/D4pHk0_oL5w)
-    
-- Jetson Nano Results Video
-    - [Jetson Nano Results Video](https://youtu.be/C-sSawc2YxE)
 
-- Project File
-    - [Project File](https://drive.google.com/drive/folders/1kXQD0gHu7XKAxDD1jPbUyIoKcj3Dzffy?usp=drive_link)
+- [Full Video](https://youtu.be/D4pHk0_oL5w)
+    
+- [Jetson Nano Results Video](https://youtu.be/C-sSawc2YxE)
+
+- [Project File](https://drive.google.com/drive/folders/1kXQD0gHu7XKAxDD1jPbUyIoKcj3Dzffy?usp=drive_link)
 ---
 
 
