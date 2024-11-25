@@ -1,5 +1,3 @@
-
-
 ![NVIDIA LOGO](https://github.com/user-attachments/assets/9cf87f01-ff75-4c6a-b4c8-2560ca2e4db7)
 
 # Nvidia AI Specialist Certification
