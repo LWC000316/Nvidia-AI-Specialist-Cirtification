@@ -101,7 +101,7 @@ A literature review is being conducted on the performance and applicability of Y
 ![다크라벨얌2](https://github.com/user-attachments/assets/b9811883-fc21-4f47-9985-ba8dca6c6fc6)
 - When annotating, put the my_classes2 in classes_set so that you can see the classes set
 
-  in the DarkLabel GUI, and set the name to be viewed in the GUI to sign.
+  in the DarkLabel GUI, and Set the name to SIGN to be displayed on the GUI.
   
 
 ![다크라벨1](https://github.com/user-attachments/assets/cec14a11-6d59-4669-8883-472a8fe4925c)
