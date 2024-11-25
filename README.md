@@ -314,22 +314,19 @@ You can change this path to any directory containing images you want to analyze.
 
 
 - Learning Results Images
- 
+
     - <https://drive.google.com/drive/folders/1mRn3iXVgNcwv4lDLyZ3SSAaGnSZaqwNd?usp=drive_link>
  
 
 - Video produced through detect results
 
-<https://github.com/user-attachments/assets/c0a095ef-4a9b-4021-9d29-5df99beb701c)>
+<https://github.com/user-attachments/assets/c13e3c1f-cea9-4594-849c-3d9fb3b3830f>
 
 
-<https://github.com/user-attachments/assets/e71a996c-bf58-40c4-8ad9-13d49dc673e2>
+<https://github.com/user-attachments/assets/8f969447-1e03-4496-a6ff-96b4c164e2b8>
 
 
-<https://github.com/user-attachments/assets/c0ca76e5-afa2-42de-964c-a1fcec22eb48>
-
-
-<https://github.com/user-attachments/assets/7fbd4884-f23a-4450-8fbf-f739a131ff13>
+<https://github.com/user-attachments/assets/d90f3288-cf9b-4b99-9342-a58358caa81d>
 
 - Learning Results Videos
     - <https://drive.google.com/drive/folders/1ceDayoJZwuJBw2DGd_66w1x5YHSbzNAg?usp=sharing>
