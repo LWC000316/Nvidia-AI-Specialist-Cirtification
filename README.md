@@ -334,7 +334,7 @@ You can change this path to any directory containing images you want to analyze.
     - <https://youtu.be/C-sSawc2YxE>
 
 - My Google Drive
-    - <https://drive.google.com/drive/folders/1kXQD0gHu7XKAxDD1jPbUyIoKcj3Dzffy?dmr=1&ec=wgc-drive-hero-goto>
+    - <https://drive.google.com/drive/folders/1kXQD0gHu7XKAxDD1jPbUyIoKcj3Dzffy?usp=drive_link>
 
 ---
 
