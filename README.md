@@ -67,7 +67,7 @@ A literature review is being conducted on the performance and applicability of Y
 - I filmed it with a camera while driving on the highway.
 - The video below is part of the learning video and you can see the original video by clicking Full video.
 
-[DRIVE TEST](https://github.com/user-attachments/assets/7b6a1ff1-6c04-4dd7-b26a-bd7dc63bf89e)
+[Part video](https://github.com/user-attachments/assets/7b6a1ff1-6c04-4dd7-b26a-bd7dc63bf89e)
 
 [Full Video](https://youtu.be/28CcGXX3-3A)
 
