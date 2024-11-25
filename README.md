@@ -301,20 +301,6 @@ images or directory of images that you want to run inference on.
 In this case, it's pointing to the Train/images directory, which likely contains the images you used for training. 
 
 You can change this path to any directory containing images you want to analyze.
-
-
-
-
-- Image produced through detect results
-
-![00000266](https://github.com/user-attachments/assets/ce062078-9fda-4928-bac8-44230bb4bc7c)
-![00000446](https://github.com/user-attachments/assets/c3a3379e-4332-4848-b0fa-83fc4e9e254e)
-![00000612](https://github.com/user-attachments/assets/3ea49621-facf-41e4-9777-f9d78dacc795)
-
-
-- Learning Results Images
-
-    - <https://drive.google.com/drive/folders/1mRn3iXVgNcwv4lDLyZ3SSAaGnSZaqwNd?usp=drive_link>
  
 
 - Video produced through detect results
